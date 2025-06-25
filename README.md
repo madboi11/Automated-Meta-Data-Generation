@@ -29,7 +29,7 @@ It uses:
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/madboi11/Automated-Meta-Data-Generation
-cd automated-metadata-generator
+cd Automated-Meta-Data-Generation
 ```
 
 ### 2. Create virtual env
