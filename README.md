@@ -29,9 +29,25 @@ It uses:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/automated-metadata-generator.git
+git clone https://github.com/madboi11/Automated-Meta-Data-Generation
 cd automated-metadata-generator
+```
 
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+### 2. Install dependencies
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Set your HuggingFaceHub access token here
+```bash
+set HUGGINGFACEHUB_API_TOKEN=your_token_here
+```
+
+### 4. Run the web app
+```bash
+streamlit run app.py
+```
+
+
+
 
