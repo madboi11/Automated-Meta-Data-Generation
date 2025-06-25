@@ -22,3 +22,16 @@ It uses:
 
 ---
 
+
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/automated-metadata-generator.git
+cd automated-metadata-generator
+
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+
